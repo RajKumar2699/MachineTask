@@ -1,0 +1,6 @@
+framework module Pods_MachineTask {
+  umbrella header "Pods-MachineTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
